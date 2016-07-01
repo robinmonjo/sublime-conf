@@ -12,5 +12,6 @@
 	],
 	"show_minimap": false,
 	"theme": "Spacegray.sublime-theme",
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"show_full_path": true
 }
