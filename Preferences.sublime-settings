@@ -4,7 +4,9 @@
 		"Git",
 		"Vintage"
 	],
+	"folder_exclude_patterns": [".github", ".git"],
 	"theme": "Spacegray.sublime-theme",
 	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
-	"trim_trailing_white_space_on_save": true
+	"trim_trailing_white_space_on_save": true,
+	"show_minimap": false
 }
