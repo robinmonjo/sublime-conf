@@ -1,12 +1,16 @@
 {
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"folder_exclude_patterns":
+	[
+		".github",
+		".git"
+	],
 	"ignored_packages":
 	[
 		"Git",
 		"Vintage"
 	],
-	"folder_exclude_patterns": [".github", ".git"],
+	"show_minimap": false,
 	"theme": "Spacegray.sublime-theme",
-	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
-	"trim_trailing_white_space_on_save": true,
-	"show_minimap": false
+	"trim_trailing_white_space_on_save": true
 }
