@@ -6,6 +6,10 @@
 	"installed_packages":
 	[
 		"Git",
-		"sublime-github"
+		"GitGutter",
+		"Material Theme",
+		"Package Control",
+		"sublime-github",
+		"Theme - Spacegray"
 	]
 }
